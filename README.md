@@ -88,7 +88,3 @@ Run tests using pytest:
 ```bash
 poetry run pytest
 ```
-
-## 📜 License
-
-This project is licensed under the MIT License.
