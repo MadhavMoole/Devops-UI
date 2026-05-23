@@ -1,0 +1,27 @@
+# Poetry
+.venv/
+poetry.lock
+
+# Python
+__pycache__/
+*.py[p]
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+.env
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Logs
+*.log
